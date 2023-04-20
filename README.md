@@ -1,6 +1,8 @@
 # Thera-Bank-Personal-Loan-Model
 HKU COMP7103C Data Mining Assignment 1 
 
+If any problems encountered when running the code please contact: llanting@connect.hku.hk
+
 ## Method 1 - Local Environment
 1. Download both the ipynb code and the excel file put them in the same directory
 2. Set up environment<br>
